@@ -1,4 +1,4 @@
-# wms-springboot-vue
+# wms-springboot-vue-home
 
 ## Project setup
 ```

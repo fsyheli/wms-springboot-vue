@@ -6,9 +6,9 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://192.168.10.179:3306/wms-springboot?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true
+    url: jdbc:mysql://localhost:3306/wms-springboot?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true
     username: root
-    password: HLIVSH888
+    password: qwerdf521
     druid:
       #2.连接池配置
       #初始化连接池的连接数量 大小，最小，最大
